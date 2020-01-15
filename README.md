@@ -9,7 +9,7 @@ Using this technique you will miss out of some of the great tools that kedro pro
 have given you.
 
 
-Aall of the code can be found in [simple_kedro.py](/blob/master/simple_kedro.py)
+Aall of the code can be found in [simple_kedro.py](/simple_kedro.py)
 
 ## Usage
 
