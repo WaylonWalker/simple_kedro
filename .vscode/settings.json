@@ -1,0 +1,19 @@
+{
+    "python.pythonPath": "/home/walkews/miniconda3/envs/simple_kedro/bin/python",
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#41233d",
+        "activityBar.activeBorder": "#616838",
+        "activityBar.foreground": "#e7e7e7",
+        "activityBar.inactiveForeground": "#e7e7e799",
+        "activityBarBadge.background": "#616838",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "titleBar.activeBackground": "#20111e",
+        "titleBar.inactiveBackground": "#20111e99",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveForeground": "#e7e7e799",
+        "statusBar.background": "#20111e",
+        "statusBarItem.hoverBackground": "#41233d",
+        "statusBar.foreground": "#e7e7e7"
+    },
+    "peacock.remoteColor": "#20111e"
+}
