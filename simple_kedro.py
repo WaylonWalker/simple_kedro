@@ -94,9 +94,10 @@ def create_simple_kedro():
     sk.runner = SequentialRunner()
     sk.run = (
         lambda pipeline=None: sk.runner.run(sk.pipeline, sk.io)
-        if pipeline == None
+        if pipeline is None
         else sk.runner.run(pipeline, sk.io)
     )
+
     return sk
 
 
